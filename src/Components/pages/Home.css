@@ -1,0 +1,22 @@
+.Home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 70vh;
+    width: 100vw;
+}
+.Home-1 {
+    height: 70vh;
+    width: 50vw;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding-left:10%;
+    margin-bottom: 10%;
+}
+.Home-2 {
+    height: 70vh;
+    width: 50vw;
+}

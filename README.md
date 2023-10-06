@@ -4,6 +4,6 @@ Integration of all type of website in one like e-commerce, Weather forcaste (for
 <br>
 Hey Developer, let's fly beyong the horizons 🐉.
 <br>
-Developer : Raja Babu Jamatia, Vikas Verma,  Ritik Sharma, Anshul Sharma, Sitiz 
+Developer : Raja Babu Jamatia, Vikas Verma. 
 <br>
 Here a Sample Prototype <a href = "https://drive.google.com/file/d/10-9pSIDFe0sI_VbFP666jC-VwYlRUrLu/view?usp=sharing"><i>Click Me</i></a>
